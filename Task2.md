@@ -1,6 +1,6 @@
 # Task 2: Legacy Point Allocation Report
 
-## Summary Report
+## Summary
 This report details the allocation of points to mentors based on the criteria outlined in the legacy point allocation system. The process included importing and cleaning the dataset, applying point criteria, and merging the results for final reporting.
 
 ## Tools Used
