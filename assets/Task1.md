@@ -1,4 +1,3 @@
-
 # Summary Report
 
 ## Tools Used
