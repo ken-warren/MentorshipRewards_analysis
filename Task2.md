@@ -29,6 +29,7 @@ The cleaned dataset included relevant columns such as `Mentor_ID`, `Mentee_ID`, 
 - The point allocation results for the mentors were as follows:
 
 |Mentor_ID|	Points_Awarded|
+|---|---|
 |1003|	3250|
 |1005|	3250|
 |1004|	2750|
