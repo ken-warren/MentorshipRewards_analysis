@@ -12,10 +12,10 @@ As part of our reward efforts, it’s crucial to maintain accurate and clean dat
 
 **Assignment:** You are provided with a sample dataset in the “Mentorship_Sessions” sheet that includes data related to mentorship sessions. This dataset has several duplicates and inconsistencies. Your task is to:
 
-- 1. Identify and address any missing, incorrect, or inconsistent data within the columns. Ensure that all data is cleaned and standardised for accurate analysis and reporting.
-- 2. Identify and remove any duplicate records.
-- 3. Explain your approach to data cleaning, including the tools you used.
-- 4. Provide a summary of the cleaned data, highlighting the number of duplicates removed and any other anomalies found.
+- Identify and address any missing, incorrect, or inconsistent data within the columns. Ensure that all data is cleaned and standardised for accurate analysis and reporting.
+- Identify and remove any duplicate records.
+- Explain your approach to data cleaning, including the tools you used.
+- Provide a summary of the cleaned data, highlighting the number of duplicates removed and any other anomalies found.
 
 **Deliverables:**
 
